@@ -1,0 +1,14 @@
+{
+  "name": "simplebackend",
+  "version": "1.0.0",
+  "description": "this is a simple backend practice project of mine",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "shubhashish chakraborty",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
